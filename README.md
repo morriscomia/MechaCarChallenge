@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-Click here to view the R-script: [MechaCarChallenge.RScript](https://github.com/caseychen3605/MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.R)
+Click here to view the R-script: [MechaCarChallenge.RScript](https://github.com/morriscomia/MechaCarChallenge/blob/main/MechaCarChallenge.Rproj)
 
 ## Project Overview
 The goal of the project is to analyze metrics that can affect the manufacturing a new car prototype and compare vehicle performance across different manufacturer lots. These metrics include vehicle length, weight, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI.
@@ -33,6 +33,7 @@ At a significance level of 0.05, we fail to reject the null hypothesis since the
 <p align="center">
 <img src="https://github.com/morriscomia/MechaCarChallenge/blob/main/Resources/lots_t_test.png">
 </p>
+
 #### Lot 1
 At a significance level of 0.05, we fail to reject the null hypothesis since the p-value equals 1. An interesting correlation between p-value and confidence intervals is that as the p-values get larger, the confidence interval becomes smaller, implying more precision in predicting the true population mean.
 
